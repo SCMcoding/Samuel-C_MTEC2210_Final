@@ -7,6 +7,9 @@ TagManager:
   - Ground
   - Enemy
   - Top
+  - Mod
+  - Bullet
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -15,9 +18,9 @@ TagManager:
   - Water
   - UI
   - Enemy
-  - 
-  - 
-  - 
+  - M.G
+  - M.S
+  - M.W
   - 
   - 
   - 
